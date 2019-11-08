@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcos.paixao\\Desktop\\PROJETOS\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "C:\\Users\\marcos.paixao\\Desktop\\PROJETOS\\Nova pasta\\workshop-asp-net-core-mvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcos.paixao\\Desktop\\PROJETOS\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "C:\\Users\\marcos.paixao\\Desktop\\PROJETOS\\Nova pasta\\workshop-asp-net-core-mvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcos.paixao\\Desktop\\PROJETOS\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "C:\\Users\\marcos.paixao\\Desktop\\PROJETOS\\Nova pasta\\workshop-asp-net-core-mvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "C:\\Users\\marcos.paixao\\Desktop\\PROJETOS\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectPath": "C:\\Users\\marcos.paixao\\Desktop\\PROJETOS\\Nova pasta\\workshop-asp-net-core-mvc\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\marcos.paixao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcos.paixao\\Desktop\\PROJETOS\\SalesWebMvc\\obj\\",
+        "outputPath": "C:\\Users\\marcos.paixao\\Desktop\\PROJETOS\\Nova pasta\\workshop-asp-net-core-mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marcos.paixao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.final, )"
             }
           },
           "imports": [
