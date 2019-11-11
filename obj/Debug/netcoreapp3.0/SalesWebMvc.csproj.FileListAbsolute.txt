@@ -266,3 +266,4 @@ C:\Users\marcos.paixao\Desktop\PROJETOS\Nova pasta\workshop-asp-net-core-mvc\bin
 C:\Users\marcos.paixao\Desktop\PROJETOS\Nova pasta\workshop-asp-net-core-mvc\bin\Debug\netcoreapp3.0\MySqlConnector.dll
 C:\Users\marcos.paixao\Desktop\PROJETOS\Nova pasta\workshop-asp-net-core-mvc\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\marcos.paixao\Desktop\PROJETOS\Nova pasta\workshop-asp-net-core-mvc\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\marcos.paixao\Desktop\PROJETOS\Nova pasta\workshop-asp-net-core-mvc\obj\Debug\netcoreapp3.0\Razor\Views\Sellers\Index.cshtml.g.cs
