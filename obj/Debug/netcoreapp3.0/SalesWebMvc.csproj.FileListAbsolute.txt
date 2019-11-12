@@ -270,3 +270,4 @@ C:\Users\marcos.paixao\Desktop\PROJETOS\Nova pasta\workshop-asp-net-core-mvc\obj
 C:\Users\marcos.paixao\Desktop\PROJETOS\Nova pasta\workshop-asp-net-core-mvc\obj\Debug\netcoreapp3.0\Razor\Views\Sellers\Create.cshtml.g.cs
 C:\Users\marcos.paixao\Desktop\PROJETOS\Nova pasta\workshop-asp-net-core-mvc\obj\Debug\netcoreapp3.0\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\marcos.paixao\Desktop\PROJETOS\Nova pasta\workshop-asp-net-core-mvc\obj\Debug\netcoreapp3.0\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\marcos.paixao\Desktop\PROJETOS\Nova pasta\workshop-asp-net-core-mvc\obj\Debug\netcoreapp3.0\Razor\Views\Sellers\Edit.cshtml.g.cs
