@@ -72,10 +72,13 @@ namespace SalesWebMvc.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Email")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("Name")
-                        .HasColumnType("longtext");
+                        .IsRequired()
+                        .HasColumnType("varchar(20)")
+                        .HasMaxLength(20);
 
                     b.HasKey("Id");
 
